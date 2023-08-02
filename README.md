@@ -1,16 +1,15 @@
 # tutorial_project
 
-A new Flutter project.
+A simple quiz app made in flutter
 
-## Getting Started
+# Welcome Screen:
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/noobprograms/Flutter-Tutorial-App/assets/78657816/1bc42fff-1758-4792-84b8-df7466a203cc)
 
-A few resources to get you started if this is your first Flutter project:
+# Quiz Screen:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/noobprograms/Flutter-Tutorial-App/assets/78657816/601157a9-601f-4e10-9f3c-e8eb335450a1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Results Screen
+
+![image](https://github.com/noobprograms/Flutter-Tutorial-App/assets/78657816/1f5fdb3e-8210-4d14-9f62-2110828a74d3)
